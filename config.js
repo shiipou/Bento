@@ -70,7 +70,7 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'More later',
+      name: 'Telegram',
       icon: 'send',
       link: 'https://t.me/nocturlab',
     },
