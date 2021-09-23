@@ -124,7 +124,7 @@ body {
 .card > p:hover {
   display: block;
   text-decoration: none;
-  color: var(--sfg);
+  color: var(--fg);
 }
 
 .timeBlock {
