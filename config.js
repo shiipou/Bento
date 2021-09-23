@@ -41,7 +41,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Cloud',
-      icon: 'github',
+      icon: 'upload-cloud',
       link: 'https://cloud.nocturlab.fr',
     },
     {
