@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Nocturlab',
+  name: '',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
