@@ -60,7 +60,7 @@ const CONFIG = {
       id: '4',
       name: 'Matrix',
       icon: 'message-circle',
-      link: 'https://talk.nocturlab.fr/#/room/#nocturlab:matrix.nocturlab.fr',
+      link: 'https://talk.nocturlab.fr/#/room/#nocturlab:nocturlab.fr',
     },
     {
       id: '5',
