@@ -120,6 +120,13 @@ body {
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
 }
 
+.card > p,
+.card > p:hover {
+  display: block;
+  text-decoration: none;
+  color: var(--sfg);
+}
+
 .timeBlock {
   grid-row: 1 / span 2;
   grid-column: 1 / span 2;
