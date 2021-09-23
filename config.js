@@ -52,7 +52,7 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'PeerTubeFR',
+      name: 'PeerTube',
       icon: 'airplay',
       link: 'http://tube.nocturlab.fr/video-channels/nocturlab',
     },
