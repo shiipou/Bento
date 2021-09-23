@@ -14,7 +14,7 @@ const printCards = () => {
           class="buttonLink__link card buttonLink__link-${card.id}"
         >
           <i class="buttonLink__icon" data-feather="${card.icon}"></i><br/>
-          <p>card.name</p>
+          <p>${card.name}</p>
         </a>
     `;
 
