@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Nocturlab',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -26,9 +26,9 @@ const CONFIG = {
   weatherKey: 'InsertYourAPIKeyHere123456',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+  language: 'fr', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '37.775',
   defaultLongitude: '-122.419',
 
@@ -40,39 +40,39 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
+      name: 'Cloud',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://cloud.nocturlab.fr',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'mailto:contact@nocturlab.fr',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'PeerTubeFR',
+      icon: 'airplay',
+      link: 'https://tube.nocturlab.fr',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Matrix',
+      icon: 'message-circle',
+      link: 'https://talk.nocturlab.fr',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Social',
+      icon: 'activity',
+      link: 'https://cloud.nocturlab.fr/apps/social/timeline',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'More later',
+      icon: 'terminal',
+      link: 'about:newtab',
     },
   ],
 
@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Matrix',
+        link: 'https://talk.nocturlab.fr/#/room/#nocturlab:matrix.nocturlab.fr',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Mastodon',
+        link: 'https://cloud.nocturlab.fr/apps/social/@shiishii/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Twitter',
+        link: 'https://twitter.com/nocturlab',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Twitch',
+        link: 'https://twitch.com/nocturlab',
       },
     ],
   },
